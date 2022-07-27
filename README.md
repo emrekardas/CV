@@ -1,0 +1,2 @@
+# CV
+ Emre KARDAŞ Resume
