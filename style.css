@@ -1,0 +1,36 @@
+body{
+    background-color: #EAF6F6;
+  }
+
+  hr{
+    /* border-style: dotted none none; yerine */
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    height: 0px;
+    width: 5%;
+  }
+  h1,h2{
+    color: #66BFBF;
+  }
+
+  .skills-1{
+      border-spacing: 1em;
+      border-right: 1px solid #000; height: 1em;
+      border-style: none;
+  }
+
+  .skills-2{
+      border-spacing: 1em;
+  }
+
+  .certificates-1{
+      border-spacing: 1em;
+      border-right: 5px solid #000; height: 1em;
+      border-style: none;
+  }
+
+  .certificates-2{
+      border-spacing: 1em;
+  }
